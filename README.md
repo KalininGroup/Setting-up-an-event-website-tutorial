@@ -1,3 +1,32 @@
+# Table of Contents
+
+1. [Why This Tutorial Exists?](#1-why-this-tutorial-exists)
+2. [What You'll Need Before Starting?](#2-what-youll-need-before-starting)
+    - [2.1 Essential Information](#21-essential-information)
+    - [2.2 Content to Prepare](#22-content-to-prepare)
+        - [2.2.1 Announcement Page Content](#221-announcement-page-content)
+        - [2.2.2 Registration Details](#222-registration-details)
+        - [2.2.3 Agenda Items](#223-agenda-items)
+        - [2.2.4 Additional Resources](#224-additional-resources)
+        - [2.2.5 Organizers](#225-organizers)
+3. [Step-by-Step Setup Guide](#3-step-by-step-setup-guide)
+    - [3.1 Choose Your Event Name](#31-choose-your-event-name)
+    - [3.2 Fork the Template Repository](#32-fork-the-template-repository)
+    - [3.3 Access Your New Repository](#33-access-your-new-repository)
+    - [3.4 Configure Your Website Settings](#34-configure-your-website-settings)
+    - [3.5 Update Your Event Logo](#35-update-your-event-logo)
+    - [3.6 Customize Your Website Content](#36-customize-your-website-content)
+        - [3.6.1 index.md - Homepage](#361-indexmd---homepage)
+        - [3.6.2 registration.md - Registration Page](#362-registrationmd---registration-page)
+        - [3.6.3 agenda.md - Event Schedule](#363-agendamd---event-schedule)
+        - [3.6.4 video-slides.md - Resources Page](#364-video-slidesmd---resources-page)
+    - [3.7 Enable GitHub Pages](#37-enable-github-pages)
+4. [Advanced Customization](#4-advanced-customization)
+    - [4.1 Styling Changes](#41-styling-changes)
+5. [Troubleshooting Common Issues](#5-troubleshooting-common-issues)
+6. [Conclusion](#6-conclusion)
+7. [Reach out for help or suggestions!](#7-reach-out-for-help-or-suggestions)
+
 # 1. Why This Tutorial Exists?
 
 Planning an event and need a website? Setting up a professional-looking website traditionally requires frontend and backend development skills, plus the cost of hosting and domain registration. Paid solutions like WordPress or Wix make this easier but come with monthly fees.
@@ -144,3 +173,6 @@ For more advanced visual customization, you can modify the `main.scss` file loca
 
 # 6. Conclusion
 You now have a professional event website running at zero cost! If you need any help, feel free to open an issue in the template repository.
+
+# 7. Reach out for help or suggestions!
+- [utkarshp1161@gmail.com](utkarshp1161@gmail.com)
