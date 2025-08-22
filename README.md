@@ -127,7 +127,7 @@ Edit the following Markdown files to add your event-specific content:
 ### 3.6.1 `index.md` - Homepage
 - Add your event description
 - Include key highlights and announcements
-- Add participant information
+- Add participation information
 
 ### 3.6.2 `registration.md` - Registration Page
 - Include registration deadlines
