@@ -4,9 +4,9 @@ Planning an event and need a website? Setting up a professional-looking website 
 
 **What if you could create a professional event website at absolutely zero cost?**
 
-Thanks to GitHub Pages, open-source templates, and AI tools like ChatGPT, you can now create and host a beautiful event website without any programming experience or hosting fees. This tutorial will show you exactly how to do it.
+Thanks to GitHub Pages, open-source templates, and AI tools like ChatGPT, you can now create and host a beautiful event website. This tutorial will show you exactly how to do it.
 
-# 2. What You'll Need Before Starting
+# 2. What You'll Need Before Starting 
 
 Before diving into the technical setup, gather the following information and materials for your event website:
 
