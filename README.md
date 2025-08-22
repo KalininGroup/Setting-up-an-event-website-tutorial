@@ -9,7 +9,7 @@
         - [2.2.3 Agenda Items](#223-agenda-items)
         - [2.2.4 Additional Resources](#224-additional-resources)
         - [2.2.5 Organizers](#225-organizers)
-3. [Step-by-Step Setup Guide](#3-step-by-step-setup-guide)
+3. [Step-by-Step Setup Guide - Video link included](#3-step-by-step-setup-guide)
     - [3.1 Choose Your Event Name](#31-choose-your-event-name)
     - [3.2 Fork the Template Repository](#32-fork-the-template-repository)
     - [3.3 Access Your New Repository](#33-access-your-new-repository)
