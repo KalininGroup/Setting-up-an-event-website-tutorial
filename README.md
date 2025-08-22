@@ -49,8 +49,9 @@ Before diving into the technical setup, gather the following information and mat
 
 
 
-## Step-by-Step Setup Guide
+## Step-by-Step Setup Guide - Helpful to watch below video and follow the steps
 
+[![Tutorial Video](https://img.youtube.com/vi/GVDz35HganY/0.jpg)](https://www.youtube.com/watch?v=GVDz35HganY)
 ### Step 1: Choose Your Event Name
 Select a clear, memorable name for your event. This will become part of your website URL.
 
