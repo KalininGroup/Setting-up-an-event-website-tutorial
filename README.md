@@ -23,6 +23,7 @@
     - [3.7 Enable GitHub Pages](#37-enable-github-pages)
 4. [Advanced Customization](#4-advanced-customization)
     - [4.1 Styling Changes](#41-styling-changes)
+    - [4.2 Need to look at an example?](#42-need-to-look-at-an-example)
 5. [Troubleshooting Common Issues](#5-troubleshooting-common-issues)
 6. [Conclusion](#6-conclusion)
 7. [Reach out for help or suggestions!](#7-reach-out-for-help-or-suggestions)
@@ -161,6 +162,9 @@ For more advanced visual customization, you can modify the `main.scss` file loca
 - Modify fonts and typography
 - Adjust layout spacing
 - Customize responsive design elements
+
+## 4.2 Need to look at an example?
+- checkout the [mic-hackathon 2024 website](https://github.com/KalininGroup/mic-hackathon)
 
 # 5. Troubleshooting Common Issues
 
